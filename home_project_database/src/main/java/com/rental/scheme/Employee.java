@@ -1,4 +1,4 @@
-package scheme;
+package com.rental.scheme;
 
 import java.util.Objects;
 
