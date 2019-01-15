@@ -9,8 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>home_project_RESTmodule</module>
-        <module>home_project_database</module>
         <module>home_project_main</module>
     </modules>
 

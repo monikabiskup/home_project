@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c072b8c-4956-4a0c-9e82-80929cf400d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Warehouse.java" afterDir="false" />
+    <list default="true" id="cb004736-4777-41ed-9d3c-b625035fb539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessageProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_project_database/src/main/java/scheme/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_RESTmodule/home_project_RESTmodule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_RESTmodule/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_database/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/dao/EmployeeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/dao/WarehouseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Warehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/home_project_RESTmodule/target/" />
     <ignored path="$PROJECT_DIR$/home_project_database/target/" />
-    <ignored path="$PROJECT_DIR$/home_project_database/home_project_spring/target/" />
+    <ignored path="$PROJECT_DIR$/home_project_RESTmodule/target/" />
     <ignored path="$PROJECT_DIR$/home_project_main/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,95 +32,74 @@
     <session id="-175826382">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="49" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="49" />
-          <entry key="XML" value="3" />
+          <entry key="project.open.time.635" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="3" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="52" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/app/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_project_main/pom.xml">
+        <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessageProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/dao/EmployeeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Warehouse.java">
+        <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessagePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_project_database/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home_project_RESTmodule/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -128,12 +117,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/home_project_database/home_project_spring/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/home_project_database/src/main/java/scheme/Employee.java" />
-        <option value="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/scheme/Employee.java" />
-        <option value="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Employee.java" />
-        <option value="$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Warehouse.java" />
+        <option value="$PROJECT_DIR$/home_project_main/src/main/java/MessageProducer.java" />
+        <option value="$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessageProducer.java" />
+        <option value="$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessagePrinter.java" />
       </list>
     </option>
   </component>
@@ -156,127 +143,86 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rental" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rental" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="home_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
+              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javastart" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rental" type="462c0819:PsiDirectoryNode" />
-              <item name="scheme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_database" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_main" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_RESTmodule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homeproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homeproject" type="462c0819:PsiDirectoryNode" />
-              <item name="home_project_RESTmodule" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547312447083" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jjdz5-cm3/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547585525839" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -290,39 +236,58 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.javastart.app.Main" />
+      <module name="home_project_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.javastart.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c072b8c-4956-4a0c-9e82-80929cf400d5" name="Default Changelist" comment="" />
-      <created>1546808890708</created>
+      <changelist id="cb004736-4777-41ed-9d3c-b625035fb539" name="Default Changelist" comment="" />
+      <created>1547583554545</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546808890708</updated>
-      <workItem from="1546808892738" duration="1215000" />
-      <workItem from="1546899978586" duration="594000" />
-      <workItem from="1546981693764" duration="718000" />
-      <workItem from="1547067178991" duration="1177000" />
-      <workItem from="1547311836125" duration="622000" />
+      <updated>1547583554545</updated>
+      <workItem from="1547584190204" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4326000" />
+    <option name="totallyTimeSpent" value="1144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -330,21 +295,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32789558" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952693" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,45 +313,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/home_project_database/home_project_spring/pom.xml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_database/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_RESTmodule/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_main/pom.xml">
+    <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/app/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/dao/EmployeeDao.java">
+    <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessageProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Employee.java">
+    <entry file="file://$PROJECT_DIR$/home_project_main/src/main/java/pl/javastart/dao/MessagePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home_project_database/src/main/java/com/rental/scheme/Warehouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -402,12 +351,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>home_project_spring:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -450,7 +397,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>homeproject</last-edited>
+          <last-edited>home_project_main</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
