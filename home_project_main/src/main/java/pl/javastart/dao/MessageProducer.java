@@ -1,8 +1,6 @@
 package pl.javastart.dao;
 
-public class MessageProducer {
+public interface MessageProducer {
 
-    public String getMessage() {
-        return "Example message " + System.currentTimeMillis();
-    }
+    public String getMessage();
 }

@@ -2,10 +2,12 @@ package pl.javastart.dao;
 
 public class MessagePrinter {
 
-    private MessageProducer messageProducer = new MessageProducer();
+    private MessageProducer messageProducer = new SimpleMessageProducer();
 
     public void printMessage() {
         String message = messageProducer.getMessage();
         System.out.println(message);
     }
 }
+
+
