@@ -12,7 +12,7 @@
     <bytecodeTargetLevel>
       <module name="home_project" target="1.5" />
       <module name="home_project_database" target="7" />
-      <module name="home_project_main" target="6" />
+      <module name="home_project_main" target="8" />
       <module name="home_project_RESTmodule" target="1.5" />
     </bytecodeTargetLevel>
   </component>
